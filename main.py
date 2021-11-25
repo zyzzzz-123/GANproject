@@ -6,7 +6,7 @@ import random
 from matplotlib import pyplot as plt
 
 
-h_dim = 400
+h_dim = 200
 batchsz = 512
 viz = visdom.Visdom()
 

@@ -130,3 +130,6 @@ dmypy.json
 
 # ignore dataset
 dataset/
+
+# ignore pycharm directory
+.idea/

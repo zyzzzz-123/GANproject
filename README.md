@@ -10,6 +10,5 @@ better in Chinese paintings’ unique details like brushstrokes and lar
 ![](./imgs/1.jpg)
 
 ## Academic poster
-### If you want to know more about the details of our implementation, you will
-obtain sufficient information in our academic poster.
+### If you want to know more about the details of our implementation, you can refer to our academic poster.
 ![](./imgs/2.jpg)

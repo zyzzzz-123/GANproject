@@ -1,6 +1,6 @@
 # Chinese Paiting Generation with Cycle GAN
 In our implementation of photo-Chinese painting transformation task, we
-adopt cycle GAN as the basic idea for its superior performance in image-toimage translation, And we did some research for an adaptation to common
+adopt cycle GAN as the basic idea for its superior performance in image-to-image translation, And we did some research for an adaptation to common
 cycle GAN for a better performance in transforming photos to Chinese
 paintings.
 
